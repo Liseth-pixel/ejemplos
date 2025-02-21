@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\source\repos\ejemplo1_2749451_\ejemplo1_2749451_\bin\Debug\ejemplo1_2749451_.exe.config
+C:\Users\MINEDUCYT\source\repos\ejemplo1_2749451_\ejemplo1_2749451_\bin\Debug\ejemplo1_2749451_.exe
+C:\Users\MINEDUCYT\source\repos\ejemplo1_2749451_\ejemplo1_2749451_\bin\Debug\ejemplo1_2749451_.pdb
+C:\Users\MINEDUCYT\source\repos\ejemplo1_2749451_\ejemplo1_2749451_\obj\Debug\ejemplo1_2749451_.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\ejemplo1_2749451_\ejemplo1_2749451_\obj\Debug\ejemplo1_2749451_.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\ejemplo1_2749451_\ejemplo1_2749451_\obj\Debug\ejemplo1_2749451_.exe
+C:\Users\MINEDUCYT\source\repos\ejemplo1_2749451_\ejemplo1_2749451_\obj\Debug\ejemplo1_2749451_.pdb

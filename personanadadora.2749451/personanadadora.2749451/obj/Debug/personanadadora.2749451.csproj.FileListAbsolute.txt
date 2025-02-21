@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\source\repos\personanadadora.2749451\personanadadora.2749451\bin\Debug\personanadadora.2749451.exe.config
+C:\Users\MINEDUCYT\source\repos\personanadadora.2749451\personanadadora.2749451\bin\Debug\personanadadora.2749451.exe
+C:\Users\MINEDUCYT\source\repos\personanadadora.2749451\personanadadora.2749451\bin\Debug\personanadadora.2749451.pdb
+C:\Users\MINEDUCYT\source\repos\personanadadora.2749451\personanadadora.2749451\obj\Debug\personanadadora.2749451.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\personanadadora.2749451\personanadadora.2749451\obj\Debug\personanadadora.2749451.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\personanadadora.2749451\personanadadora.2749451\obj\Debug\personanadadora.2749451.exe
+C:\Users\MINEDUCYT\source\repos\personanadadora.2749451\personanadadora.2749451\obj\Debug\personanadadora.2749451.pdb
